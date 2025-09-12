@@ -16,7 +16,7 @@
 3. Follow the steps below and my example to complete the assignment
 
 ## Assignment
-You are going to research careers in the tech industry and create a small website with information about **two** specific career in tech.
+You are going to research careers in the tech industry and create a small website with information about **two** specific careers in tech.
 
 ### Step 1: Research
 1. Navigate to [CompTIA Tech Careers](https://www.comptia.org/en-us/explore-careers/job-roles/?page=1&category=all)
@@ -30,8 +30,8 @@ You are going to research careers in the tech industry and create a small websit
 5. Repeat steps 3 and 4 for your second career
 
 ### Step 4: Create a career details page
-1. Create a new file named ```jobinfo1.html``` and use the ```!``` shortcut to add the required html tags
-2. To view a preview of the page, add ```/job1info.html``` to the **address bar** of your page preview tab. It should look something like this: ***studious-invention-g76xqvx4wp4c9v45.github.dev/job1info.html***
+1. Create a new file named ```job1info.html``` and use the ```!``` shortcut to add the required html tags
+2. To view a preview of the page, add ```/job1info.html``` to the **address bar** of your page preview tab. It should look something like this: studious-invention-g76xqvx4wp4c9v45.github.dev/***job1info.html***
 2. Set the ```<title>``` to the name of your first career e.g. *Full Stack Developer*
 3. Add an ```<h1>``` with the name of your first career (same as title)
 4. Add a ```<p>``` tag and copy over the more detailed description of the career from CompTIA (under Overview)
@@ -47,7 +47,7 @@ You are going to research careers in the tech industry and create a small websit
 4. Edit ```job1info.html``` and add an ```<a>``` tag above the ```<h1>``` that says *Home* and links to ```index.html```
 
 ### Step 6: Create a second career details page
-Repeat steps 4 and 5 for your second career
+Repeat steps 4 and 5 for your second career. Name the new file ```job2info.html```
 
 ### Step 7: Add some styles
 1. Create a new file named ```styles.css```

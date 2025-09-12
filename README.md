@@ -1,7 +1,7 @@
 # css-multipage
 
 ## Learning Target
-- I am learning how to create websites with multiple pages
+- I am learning how to create websites with multiple pages and use an external style sheet
 
 ## Success Criteria
 - I can create other ```.html``` pages and link to them using ```<a>``` tags
@@ -31,7 +31,7 @@ You are going to research careers in the tech industry and create a small websit
 
 ### Step 4: Create a career details page
 1. Create a new file named ```jobinfo1.html``` and use the ```!``` shortcut to add the required html tags
-2. Add ```/job1info.html``` to the *address bar* of your page preview to open the new page. It should look something like this: ***studious-invention-g76xqvx4wp4c9v45.github.dev/job1info.html***
+2. To view a preview of the page, add ```/job1info.html``` to the **address bar** of your page preview tab. It should look something like this: ***studious-invention-g76xqvx4wp4c9v45.github.dev/job1info.html***
 2. Set the ```<title>``` to the name of your first career e.g. *Full Stack Developer*
 3. Add an ```<h1>``` with the name of your first career (same as title)
 4. Add a ```<p>``` tag and copy over the more detailed description of the career from CompTIA (under Overview)

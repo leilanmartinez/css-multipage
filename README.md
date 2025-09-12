@@ -54,6 +54,14 @@ Repeat steps 4 and 5 for your second career
 2. Link the ```styles.css``` to each of your html docs by adding ```<link rel="stylesheet" href="styles.css">``` to the ```<head>``` section of each of your html files
 3. Add the following styles
     - body: dark background color, light text color, and font-family Arial
-    - h1: font-family Impact, background color darkorange
+    - h1: font-family Impact, background color
+    - h2: font-family Impact, different bg color
+    - a: light text color
     - Color and background color for *More info* links (**Hint** use the **class** ```more-info``` on only those links)
     - Color and background color for *Home* links (**Hint** use the **id** ```home``` on only those links)
+
+### Example finished index.html
+![alt text](image.png) 
+
+### Example finished job1info.html
+![alt text](image-1.png)

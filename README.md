@@ -8,8 +8,6 @@
 - I can create a ```styles.css``` file and link it to html files using ```<link rel="stylesheet" href="style.css">``` in the ```<head>``` section
 - I can use one ```styles.css``` file to style multiple pages
 
-
-
 ## Directions
 1. Install Live Server and Go Live
 2. Add an ```index.html``` file and use the ```!``` shortcut to add the required html tags
@@ -46,10 +44,7 @@ You are going to research careers in the tech industry and create a small websit
 3. Test that the link works to open ```job1info.html```
 4. Edit ```job1info.html``` and add an ```<a>``` tag above the ```<h1>``` that says *Home* and links to ```index.html```
 
-### Step 5: Create a second career details page
-Repeat steps 3 and 4 for your second career. Name the new file ```job2info.html```
-
-### Step 6: Add some styles
+### Step 5: Add some styles
 1. Create a new file named ```styles.css```
 2. Link the ```styles.css``` to each of your html docs by adding ```<link rel="stylesheet" href="styles.css">``` to the ```<head>``` section of each of your html files
 3. Add the following styles
@@ -59,6 +54,11 @@ Repeat steps 3 and 4 for your second career. Name the new file ```job2info.html`
     - a: light text color
     - Color and background color for *More info* links (**Hint** use the **class** ```more-info``` on only those links)
     - Color and background color for *Home* links (**Hint** use the **id** ```home``` on only those links)
+
+### Step 6: Create a second career details page
+1. Repeat steps 3 and 4 for your second career. Name the new file ```job2info.html```
+2. Be sure to add ```<link rel="stylesheet" href="styles.css">``` to the ```<head>``` section of you new ```.html``` file so that it gets the same styling
+
 
 ### Example finished index.html
 ![alt text](image.png) 

@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(174, 0, 0);
+    color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+}
+a {
+    color: whitesmoke;
+}
+
+.more-info {
+    background-color: rgba(0, 0, 0, 0.464);
+    color: white;
+}
